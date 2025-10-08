@@ -15,7 +15,6 @@ The models used are **Random Forest**, **Support Vector Machine (SVM)**, and **L
 
 ## ⚙️ Methodology
 ### 1. Data Preprocessing
-- Converted all images to grayscale  
 - Resized to a consistent 128×128 pixels  
 - Flattened 2D images into 1D feature vectors (16,384 features)  
 - Normalized pixel values and encoded labels  
