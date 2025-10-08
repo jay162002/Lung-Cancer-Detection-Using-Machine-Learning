@@ -24,11 +24,11 @@ The models used are **Random Forest**, **Support Vector Machine (SVM)**, and **L
 - **Augmentation:** Performed random flips and rotations to improve generalization.
 
 ### 3. Models Implemented
-| Model | Description | Accuracy (%) |
-|:--|:--|:--:|
-| Random Forest | Ensemble of decision trees, robust and interpretable | **95.4** |
-| SVM | Linear kernel, decision boundary visualized with PCA | **92.5** |
-| Logistic Regression | Simple, fast, and interpretable baseline | **86.5** |
+| Model | Accuracy (%) |
+|:--|:--:|
+| Random Forest | **95.4** |
+| SVM  | **92.5** |
+| Logistic Regression | **86.5** |
 
 
 ## 📊 Results
