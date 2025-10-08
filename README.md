@@ -31,7 +31,7 @@ The models used are **Random Forest**, **Support Vector Machine (SVM)**, and **L
 | Logistic Regression | **86.5** |
 
 
-## 📊 Results
+## Results
 - **Best Model:** Random Forest  
 - **Accuracy Summary:**
   - Random Forest: **95%**
